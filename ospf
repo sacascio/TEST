@@ -3,3 +3,5 @@ router ospf 1
 show ip ospf neighbors
 sh ip protocols
 show ip int br
+config t
+hi sal
