@@ -5,3 +5,4 @@ sh ip protocols
 show ip int br
 config t
 hi sal
+bye sal
