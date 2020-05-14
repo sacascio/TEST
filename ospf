@@ -6,3 +6,4 @@ show ip int br
 config t
 hi sal
 bye sal
+modify first, then git add
