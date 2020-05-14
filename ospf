@@ -1,3 +1,4 @@
 show run ospf
 router ospf 1
 show ip ospf neighbors
+sh ip protocols
