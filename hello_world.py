@@ -3,6 +3,8 @@ import sys
 # comment
 # Newer comment
 # part of hotfix
+# part of test
+
 def hello():
 
 	print ("Hello")
