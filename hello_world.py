@@ -5,11 +5,11 @@ import sys
 # part of hotfix
 
 
-# finally
-
 def hello():
 
 	print ("Hello")
 
 print ("Hello World")
+
+print("I am exiting")
 sys.exit(9)
